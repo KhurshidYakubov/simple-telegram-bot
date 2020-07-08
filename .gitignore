@@ -1,4 +1,4 @@
 /.idea
-/__paycache__
+/__pycache__
 /env
 settings.py
